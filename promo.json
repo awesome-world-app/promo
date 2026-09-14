@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "id": "fxcam",
+      "bundleID": "com.awesome-world.fxcam",
+      "appStoreID": "6743348961",
+      "icon": "https://awesome-world-app.github.io/promo/icons/fxcam.png",
+      "localIcon": "promo_fxcam",
+      "title": { "en": "FX Cam", "uk": "FX Cam" },
+      "subtitle": {
+        "en": "Real-time filters for Reels and Stories",
+        "uk": "Фільтри в реальному часі для Reels і Stories"
+      },
+      "priority": 100,
+      "active": true,
+      "hideIn": []
+    },
+    {
+      "id": "kaleidoscope",
+      "bundleID": "",
+      "appStoreID": "6473702153",
+      "icon": "https://awesome-world-app.github.io/promo/icons/kaleidoscope.png",
+      "localIcon": "promo_kaleidoscope",
+      "title": { "en": "Kaleidoscope: Camera & Photo", "uk": "Kaleidoscope: Camera & Photo" },
+      "subtitle": {
+        "en": "82 lenses and live symmetry effects",
+        "uk": "82 лінзи та симетрія в реальному часі"
+      },
+      "priority": 90,
+      "active": true,
+      "hideIn": []
+    },
+    {
+      "id": "linneria",
+      "bundleID": "",
+      "appStoreID": "6670579822",
+      "icon": "https://awesome-world-app.github.io/promo/icons/linneria.png",
+      "localIcon": "promo_linneria",
+      "title": { "en": "Draw in Air", "uk": "Draw in Air" },
+      "subtitle": {
+        "en": "Spatial 3D drawing",
+        "uk": "Просторове 3D-малювання"
+      },
+      "priority": 80,
+      "active": true,
+      "hideIn": []
+    }
+  ],
+  "config": {
+    "paywallVariant": "weekly_first"
+  }
+}
