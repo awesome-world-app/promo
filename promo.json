@@ -56,6 +56,25 @@
     },  
     
 
+
+
+{
+      "id": "kaleidoscopecolor",
+      "bundleID": "com.awesome-world.kaleidoscopecolor",
+      "appStoreID": "6752025720",
+      "icon": "https://awesome-world-app.github.io/promo/icons/kaleidoscopecolor.png",
+      "localIcon": "promo_kaleidoscopecolor",
+      "title": { "en": "Kaleidoscope Color", "uk": "Kaleidoscope Color" },
+      "subtitle": {
+        "en": "Create Hypnotic Video & Art",
+        "uk": "Create Hypnotic Video & Art"
+      },
+      "priority": 100,
+      "active": true,
+      "hideIn": []
+    },  
+
+
     
     {
       "id": "fxcam",
