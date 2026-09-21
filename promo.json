@@ -96,10 +96,10 @@
 
 
 {
-      "id": "kaleidosclassic",
+      "id": "kaleidoscopeclassic",
       "bundleID": "com.awesome-world.kaleidoscopeclassic",
       "appStoreID": "6752328872",
-      "icon": "https://awesome-world-app.github.io/promo/icons/kaleidosclassic.png",
+      "icon": "https://awesome-world-app.github.io/promo/icons/kaleidoscopeclassic.png",
       "localIcon": "promo_kaleidosclassic",
       "title": { "en": "Kaleidoscope Classic", "uk": "Kaleidoscope Classic" },
       "subtitle": {
