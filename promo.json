@@ -1,6 +1,27 @@
 {
   "version": 1,
   "apps": [
+
+
+  {
+      "id": "facepaint",
+      "bundleID": "com.awesome-world.facemask",
+      "appStoreID": "6809166314",
+      "icon": "https://awesome-world-app.github.io/promo/icons/ass.png",
+      "localIcon": "promo_facepaint",
+      "title": { "en": "Face Paint", "uk": "Face Paint" },
+      "subtitle": {
+        "en": "Draw on Face in Real Time",
+        "uk": "Draw on Face in Real Time"
+      },
+      "priority": 100,
+      "active": true,
+      "hideIn": []
+    },
+
+
+
+    
     {
       "id": "ass",
       "bundleID": "com.awesome-world.fxcffcam",
