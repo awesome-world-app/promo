@@ -78,6 +78,24 @@
 
 
 {
+      "id": "NOCUT",
+      "bundleID": "com.awesome-world.nocut",
+      "appStoreID": "6781240701",
+      "icon": "https://awesome-world-app.github.io/promo/icons/NOCUT.png",
+      "localIcon": "promo_NOCUT",
+      "title": { "en": "NOCUT", "uk": "NOCUT" },
+      "subtitle": {
+        "en": "Quick Titles & Transitions",
+        "uk": "Quick Titles & Transitions"
+      },
+      "priority": 100,
+      "active": true,
+      "hideIn": []
+    },  
+
+
+
+{
       "id": "kaleidosclassic",
       "bundleID": "com.awesome-world.kaleidoscopeclassic",
       "appStoreID": "6752328872",
@@ -94,6 +112,7 @@
     },  
 
 
+    
     
     {
       "id": "fxcam",
