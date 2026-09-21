@@ -14,7 +14,7 @@
         "en": "Draw on Face in Real Time",
         "uk": "Draw on Face in Real Time"
       },
-      "priority": 100,
+      "priority": 4,
       "active": true,
       "hideIn": []
     },
@@ -32,7 +32,7 @@
         "en": "Realtime Pixelate & Blur Video",
         "uk": "Realtime Pixelate & Blur Video"
       },
-      "priority": 100,
+      "priority": 5,
       "active": true,
       "hideIn": []
     },
@@ -50,7 +50,7 @@
         "en": "Live Effects Time Displacement",
         "uk": "Live Effects Time Displacement"
       },
-      "priority": 100,
+      "priority": 3,
       "active": true,
       "hideIn": []
     },  
@@ -69,7 +69,7 @@
         "en": "Create Hypnotic Video & Art",
         "uk": "Create Hypnotic Video & Art"
       },
-      "priority": 100,
+      "priority": 6,
       "active": true,
       "hideIn": []
     },  
@@ -88,7 +88,7 @@
         "en": "Quick Titles & Transitions",
         "uk": "Quick Titles & Transitions"
       },
-      "priority": 100,
+      "priority": 1,
       "active": true,
       "hideIn": []
     },  
@@ -106,7 +106,7 @@
         "en": "Magic Camera of Your Childhood",
         "uk": "Magic Camera of Your Childhood"
       },
-      "priority": 100,
+      "priority": 2,
       "active": true,
       "hideIn": []
     },  
@@ -125,7 +125,7 @@
         "en": "Real-time filters for Reels and Stories",
         "uk": "Фільтри в реальному часі для Reels і Stories"
       },
-      "priority": 100,
+      "priority": 9,
       "active": true,
       "hideIn": []
     },
@@ -140,7 +140,7 @@
         "en": "82 lenses and live symmetry effects",
         "uk": "82 лінзи та симетрія в реальному часі"
       },
-      "priority": 90,
+      "priority": 8,
       "active": true,
       "hideIn": []
     },
@@ -155,7 +155,7 @@
         "en": "Spatial 3D drawing",
         "uk": "Просторове 3D-малювання"
       },
-      "priority": 80,
+      "priority": 7,
       "active": true,
       "hideIn": []
     }
