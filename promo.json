@@ -131,7 +131,7 @@
     },
     {
       "id": "kaleidoscope",
-      "bundleID": "",
+      "bundleID": "com.awesome-world.kaleidoscope",
       "appStoreID": "6473702153",
       "icon": "https://awesome-world-app.github.io/promo/icons/kaleidoscope.png",
       "localIcon": "promo_kaleidoscope",
@@ -146,7 +146,7 @@
     },
     {
       "id": "linneria",
-      "bundleID": "",
+      "bundleID": "com.awesome-world.linneria",
       "appStoreID": "6670579822",
       "icon": "https://awesome-world-app.github.io/promo/icons/linneria.png",
       "localIcon": "promo_linneria",
