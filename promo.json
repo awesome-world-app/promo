@@ -23,20 +23,23 @@
 
     
     {
-      "id": "ass",
-      "bundleID": "com.awesome-world.fxcffcam",
-      "appStoreID": "6743348961",
-      "icon": "https://awesome-world-app.github.io/promo/icons/ass.png",
-      "localIcon": "promo_fxcam",
-      "title": { "en": "FX Ass", "uk": "FX Cam" },
+      "id": "facemosaic",
+      "bundleID": "com.awesome-world.mosaic-camera",
+      "appStoreID": "6803026831",
+      "icon": "https://awesome-world-app.github.io/promo/icons/facemosaic.png",
+      "localIcon": "promo_facemosaic",
+      "title": { "en": "FX Face Mosaic", "uk": "FX Face Mosaic" },
       "subtitle": {
-        "en": "Real-time cool ass in world",
-        "uk": "Фільтри в реальному часі для Reels і Stories"
+        "en": "Realtime Pixelate & Blur Video",
+        "uk": "Realtime Pixelate & Blur Video"
       },
       "priority": 100,
-      "active": false,
+      "active": true,
       "hideIn": []
     },
+
+
+    
     {
       "id": "fxcam",
       "bundleID": "com.awesome-world.fxcam",
