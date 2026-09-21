@@ -13,7 +13,7 @@
         "uk": "Фільтри в реальному часі для Reels і Stories"
       },
       "priority": 100,
-      "active": true,
+      "active": false,
       "hideIn": []
     },
     {
