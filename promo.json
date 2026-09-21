@@ -75,6 +75,25 @@
     },  
 
 
+
+
+{
+      "id": "kaleidosclassic",
+      "bundleID": "com.awesome-world.kaleidoscopeclassic",
+      "appStoreID": "6752328872",
+      "icon": "https://awesome-world-app.github.io/promo/icons/kaleidosclassic.png",
+      "localIcon": "promo_kaleidosclassic",
+      "title": { "en": "Kaleidoscope Classic", "uk": "Kaleidoscope Classic" },
+      "subtitle": {
+        "en": "Magic Camera of Your Childhood",
+        "uk": "Magic Camera of Your Childhood"
+      },
+      "priority": 100,
+      "active": true,
+      "hideIn": []
+    },  
+
+
     
     {
       "id": "fxcam",
