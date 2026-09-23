@@ -15,7 +15,7 @@
         "uk": "Draw on Face in Real Time"
       },
       "priority": 4,
-      "active": true,
+      "active": false,
       "hideIn": []
     },
 
@@ -33,7 +33,7 @@
         "uk": "Realtime Pixelate & Blur Video"
       },
       "priority": 5,
-      "active": true,
+      "active": false,
       "hideIn": []
     },
 
@@ -51,7 +51,7 @@
         "uk": "Live Effects Time Displacement"
       },
       "priority": 3,
-      "active": true,
+      "active": false,
       "hideIn": []
     },  
     
@@ -70,7 +70,7 @@
         "uk": "Create Hypnotic Video & Art"
       },
       "priority": 6,
-      "active": true,
+      "active": false,
       "hideIn": []
     },  
 
