@@ -70,7 +70,7 @@
         "uk": "Create Hypnotic Video & Art"
       },
       "priority": 6,
-      "active": false,
+      "active": true,
       "hideIn": []
     },  
 
@@ -89,7 +89,7 @@
         "uk": "Quick Titles & Transitions"
       },
       "priority": 1,
-      "active": true,
+      "active": false,
       "hideIn": []
     },  
 
@@ -107,7 +107,7 @@
         "uk": "Magic Camera of Your Childhood"
       },
       "priority": 2,
-      "active": true,
+      "active": false,
       "hideIn": []
     },  
 
