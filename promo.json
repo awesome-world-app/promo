@@ -33,7 +33,7 @@
         "uk": "Realtime Pixelate & Blur Video"
       },
       "priority": 5,
-      "active": false,
+      "active": true,
       "hideIn": []
     },
 
