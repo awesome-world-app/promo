@@ -59,15 +59,15 @@
 
 
 {
-      "id": "kaleidoscopecolor",
+      "id": "trippykaleidoscope",
       "bundleID": "com.awesome-world.kaleidoscopecolor",
       "appStoreID": "6752025720",
       "icon": "https://awesome-world-app.github.io/promo/icons/kaleidoscopecolor.png",
       "localIcon": "promo_kaleidoscopecolor",
-      "title": { "en": "Kaleidoscope Color", "uk": "Kaleidoscope Color" },
+      "title": { "en": "Trippy Kaleidoscope", "uk": "Trippy Kaleidoscope" },
       "subtitle": {
-        "en": "Create Hypnotic Video & Art",
-        "uk": "Create Hypnotic Video & Art"
+        "en": "Hypnotic Mandala Animations",
+        "uk": "Hypnotic Mandala Animations"
       },
       "priority": 6,
       "active": true,
