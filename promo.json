@@ -33,25 +33,25 @@
         "uk": "Realtime Pixelate & Blur Video"
       },
       "priority": 5,
-      "active": true,
+      "active": false,
       "hideIn": []
     },
 
 
 
   {
-      "id": "tailcamera",
+      "id": "motioncamera",
       "bundleID": "com.awesome-world.tailcam",
       "appStoreID": "6784118981",
-      "icon": "https://awesome-world-app.github.io/promo/icons/tailcamera.png",
+      "icon": "https://awesome-world-app.github.io/promo/icons/motioncamera.png",
       "localIcon": "promo_tailcamera",
-      "title": { "en": "Tail Camera", "uk": "Tail Camera" },
+      "title": { "en": "Motion Camera: Trail Effects", "uk": "Motion Camera: Trail Effects" },
       "subtitle": {
-        "en": "Live Effects Time Displacement",
-        "uk": "Live Effects Time Displacement"
+        "en": "Dynamic Photo & Video Creator",
+        "uk": "Dynamic Photo & Video Creator"
       },
       "priority": 3,
-      "active": false,
+      "active": true,
       "hideIn": []
     },  
     
